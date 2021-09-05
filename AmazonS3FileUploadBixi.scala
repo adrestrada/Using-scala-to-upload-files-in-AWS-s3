@@ -5,7 +5,7 @@ import com.amazonaws.auth.BasicAWSCredentials
 import java.io.File
 
 
-object AmazonS3FileUploadBixi extends App {
+object AmazonS3FileUpload extends App {
 
   // specifying bucket name
   val bucketName = "data-bucket"
